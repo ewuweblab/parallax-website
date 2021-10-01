@@ -1,0 +1,24 @@
+10:03:14 From P. Colin Manikoth to Everyone:
+	https://docs.google.com/presentation/d/1-WVNJlN9HIulU3Wv6AH-zHHNh_GIrK7UHKoFndqBqxI/edit?usp=sharing
+10:04:01 From P. Colin Manikoth to Everyone:
+	Please let me know you are there.
+10:33:48 From P. Colin Manikoth to Everyone:
+	Laurel?
+10:33:55 From Laurel Peterson to Everyone:
+	Yes
+10:34:15 From P. Colin Manikoth to Everyone:
+	I’m not sure screen sharing because I did not know you were there.
+10:34:29 From P. Colin Manikoth to Everyone:
+	OK to screen share now?
+10:34:34 From Laurel Peterson to Everyone:
+	Sounds good!
+10:42:34 From P. Colin Manikoth to Everyone:
+	CONTINUOUS DEPLOYMENT
+10:47:12 From P. Colin Manikoth to Everyone:
+	What is the default file to make a website?
+10:47:23 From Laurel Peterson to Everyone:
+	html
+11:15:51 From P. Colin Manikoth to Everyone:
+	https://codepen.io/manikoth/professor/zYBvjKq
+11:32:41 From P. Colin Manikoth to Everyone:
+	https://codepen.io/manikoth/project/editor/DddVyW
